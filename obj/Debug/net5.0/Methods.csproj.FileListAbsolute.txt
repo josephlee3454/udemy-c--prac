@@ -1,0 +1,16 @@
+/home/owner/dojo/udemy-practice/Methods/bin/Debug/net5.0/Methods
+/home/owner/dojo/udemy-practice/Methods/bin/Debug/net5.0/Methods.deps.json
+/home/owner/dojo/udemy-practice/Methods/bin/Debug/net5.0/Methods.runtimeconfig.json
+/home/owner/dojo/udemy-practice/Methods/bin/Debug/net5.0/Methods.runtimeconfig.dev.json
+/home/owner/dojo/udemy-practice/Methods/bin/Debug/net5.0/Methods.dll
+/home/owner/dojo/udemy-practice/Methods/bin/Debug/net5.0/ref/Methods.dll
+/home/owner/dojo/udemy-practice/Methods/bin/Debug/net5.0/Methods.pdb
+/home/owner/dojo/udemy-practice/Methods/obj/Debug/net5.0/Methods.csprojAssemblyReference.cache
+/home/owner/dojo/udemy-practice/Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/owner/dojo/udemy-practice/Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/home/owner/dojo/udemy-practice/Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/home/owner/dojo/udemy-practice/Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
+/home/owner/dojo/udemy-practice/Methods/obj/Debug/net5.0/Methods.dll
+/home/owner/dojo/udemy-practice/Methods/obj/Debug/net5.0/ref/Methods.dll
+/home/owner/dojo/udemy-practice/Methods/obj/Debug/net5.0/Methods.pdb
+/home/owner/dojo/udemy-practice/Methods/obj/Debug/net5.0/Methods.genruntimeconfig.cache
